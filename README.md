@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Logo" src="https://github.com/dragutin-oreski/personal-website/main/src/images/logo.png" width="100" />
+  <img alt="Logo" src="https://github.com/dragutin-oreski/personal-website/blob/main/src/images/logo.png" width="100" />
 </div>
 <h1 align="center">
   dragutin-oreski.com
@@ -8,7 +8,7 @@
   First iteration of <a href="https://dragutin-oreski.com" target="_blank">dragutin-oreski.com</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
 </p>
 <p align="center">
-  <a href="https://app.netlify.com/sites/dragutin-oreski/deploys" target="_blank">
+  <a href="https://app.netlify.com/sites/steady-quokka-5352d5/deploys" target="_blank">
     <img src="https://api.netlify.com/api/v1/badges/1963b488-7b78-48c9-9e2d-6fb5e47ab3af/deploy-status" alt="Netlify Status" />
   </a>
 </p>
