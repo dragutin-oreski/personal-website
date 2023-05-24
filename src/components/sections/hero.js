@@ -65,10 +65,8 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I bring a unique combination of technical skills and creative thinking to my role as a data
-        engineer. With a passion for data science, I'm always eager to take on new challenges and
-        provide valuable insights from data analysis. I'm constantly seeking to expand my knowledge
-        and skills in the field and I'm excited to apply my talents to new and exciting projects.
+        I'm a data enthusiast currently working as a Data Engineer supporting the ELT process.
+        Passionate about empowering others through mentoring and coaching
       </p>
     </>
   );

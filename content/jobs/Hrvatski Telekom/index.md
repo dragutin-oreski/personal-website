@@ -8,3 +8,4 @@ url: 'https://www.hrvatskitelekom.hr/'
 ---
 
 - Worked on operational DWH activities
+- Informatica, DataStage

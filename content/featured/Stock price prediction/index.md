@@ -1,7 +1,7 @@
 ---
 date: '3'
 title: 'Stock price prediction'
-cover: './course-card.png'
+cover: './stocks.jpg'
 external: 'https://github.com/dragutin-oreski'
 cta: 'https://github.com/dragutin-oreski'
 tech:

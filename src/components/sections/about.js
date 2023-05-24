@@ -58,7 +58,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['Python', 'Prefect', 'Kafka', 'AWS', 'Pandas', 'PostgreSQL', 'MongoDB'];
+  const skills = ['Python', 'Prefect', 'Kafka', 'AWS', 'Pandas', 'PostgreSQL', 'MongoDB', 'OpenCV'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -78,6 +78,12 @@ const About = () => {
           <ul className="skills-list">
             {skills && skills.map((skill, i) => <li key={i}>{skill}</li>)}
           </ul>
+          <div style={{ marginTop: '20px' }}>
+            <p>
+              I'm an experienced trainer with over 500 hours of delivered soft skills training
+              sessions. I enjoy using coaching and mentoring to help people learn and grow.
+            </p>
+          </div>
         </StyledText>
       </div>
     </StyledAboutSection>
